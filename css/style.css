@@ -18,3 +18,24 @@ body {
 	box-shadow: 0 4px 4px rgba (0, 0, 0, 0.25);
 	padding: 42px 100px;
 }
+
+.header_logo {
+	float: left;
+}
+
+.header_menu {
+	float: right;
+	/*выравнивание по правому краю*/
+}
+
+.header_menu li {
+	display: inline-block;
+	/* выравнивание элементов списка по линии*/
+	margin-left: 20px;
+	/*расстояние между элементами списка*/
+}
+
+.header_menu a {
+	font: 300 normal 16px/36px "Josefin Sans", sans-serif;
+
+}
