@@ -15,7 +15,7 @@ body {
 
 .header {
 	background-color: #F8F8F8;
-	box-shadow: 0 4px 4px rgba (0, 0, 0, 0.25);
+	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 	padding: 42px 100px;
 }
 
@@ -37,5 +37,17 @@ body {
 
 .header_menu a {
 	font: 300 normal 16px/36px "Josefin Sans", sans-serif;
+	text-align: right;
+	letter-spacing: 0.0025em;
+	text-transform: uppercase;
+	color: #555555;
+}
 
+.header_menu a:hover {
+	text-decoration: underline;
+}
+
+
+.clr {
+	clear: both;
 }
