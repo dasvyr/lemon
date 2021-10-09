@@ -2,3 +2,8 @@ body {
 	background-color: #C4C4C4;
 	font-family: "Josefin Sans", sans-serif;
 }
+
+.wrapper {
+	width: 1120px;
+	margin: 0 auto;
+}
