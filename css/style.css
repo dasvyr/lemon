@@ -7,3 +7,13 @@ body {
 	width: 1120px;
 	margin: 0 auto;
 }
+
+.wrapper>div,
+.wrapper>header {
+	margin-bottom: 70px;
+}
+
+.header {
+	background-color: #F8F8F8;
+
+}
